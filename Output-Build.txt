@@ -1,0 +1,7 @@
+﻿Build started at 12:29...
+------ Build started: Project: Programming Website, Configuration: Debug Any CPU ------
+Validating Web Site
+
+Validation Complete
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+========== Build completed at 12:29 and took 01.556 seconds ==========
